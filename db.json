@@ -1,56 +1,31 @@
-[
-  {
-    "name": "Pizza Name 1",
-    "price": "10",
-    "img": "https://github.com/TrietTran1701/restaurant-img/blob/main/pizza-1.jpg",
-    "desc": "pizza, dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients"
-  },
-  {
-    "name": "Pizza Name 2",
-    "price": "20",
-    "img": "https://github.com/TrietTran1701/restaurant-img/blob/main/pizza-2.jpg",
-    "desc": "pizza, dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients"
-  },
-  {
-    "name": "Pizza Name 3",
-    "price": "30",
-    "img": "https://github.com/TrietTran1701/restaurant-img/blob/main/pizza-3.jpg",
-    "desc": "pizza, dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients"
-  },
-  {
-    "name": "Pizza Name 4",
-    "price": "40",
-    "img": "https://github.com/TrietTran1701/restaurant-img/blob/main/pizza-4.jpg",
-    "desc": "pizza, dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients"
-  },
-  {
-    "name": "Pizza Name 5",
-    "price": "50",
-    "img": "https://github.com/TrietTran1701/restaurant-img/blob/main/pizza-5.jpg",
-    "desc": "pizza, dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients"
-  },
-  {
-    "name": "Pizza Name 6",
-    "price": "60",
-    "img": "https://github.com/TrietTran1701/restaurant-img/blob/main/pizza-6.jpg",
-    "desc": "pizza, dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients"
-  },
-  {
-    "name": "Pizza Name 7",
-    "price": "70",
-    "img": "https://github.com/TrietTran1701/restaurant-img/blob/main/pizza-7.jpg",
-    "desc": "pizza, dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients"
-  },
-  {
-    "name": "Pizza Name 8",
-    "price": "80",
-    "img": "https://github.com/TrietTran1701/restaurant-img/blob/main/pizza-8.jpg",
-    "desc": "pizza, dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients"
-  },
-  {
-    "name": "Pizza Name 9",
-    "price": "90",
-    "img": "https://github.com/TrietTran1701/restaurant-img/blob/main/pizza-9.jpg",
-    "desc": "pizza, dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
